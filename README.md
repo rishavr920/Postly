@@ -14,9 +14,6 @@ A full-stack blog application built with **FastAPI** (backend) and **React with 
 - **Frontend**: React, Custom CSS, Axios, react-router-dom
 - **Deployment**: Render (backend), Vercel (frontend)
 
-## Deployment
-- Backend: [https://your-backend.onrender.com](https://your-backend.onrender.com)
-- Frontend: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
 
 ## Screenshots
 ![Home Page](screenshots/home.png)
