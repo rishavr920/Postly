@@ -1,0 +1,11 @@
+# .gitignore
+# Backend
+backend/venv/
+backend/blog.db
+backend/__pycache__/
+backend/*.pyc
+
+# Frontend
+frontend/myapp/node_modules/
+frontend/myapp/build/
+frontend/myapp/.env
