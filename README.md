@@ -16,7 +16,7 @@ A full-stack blog application built with **FastAPI** (backend) and **React with 
 
 
 ## Screenshots
-![Home Page](screenshots/home.png)
+![Flow Page](flow.png)
 ![Login Page](screenshots/login.png)
 
 ## Setup
